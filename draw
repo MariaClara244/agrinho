@@ -1,0 +1,2 @@
+function draw () {
+  // usando map () para ajustar a cor de fundo 
