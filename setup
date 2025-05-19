@@ -1,0 +1,4 @@
+function setup () {
+creatCanvas (600, 400)
+jardineiro = new Jardineiro(width / 2, -50);
+}
